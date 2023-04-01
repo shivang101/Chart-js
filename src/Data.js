@@ -29,4 +29,5 @@ export const UserData = [
       userGain: 4300,
       userLost: 234,
     },
-  ];
+    
+];
